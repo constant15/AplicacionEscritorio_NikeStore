@@ -1,0 +1,8 @@
+Usuarios	Nro documento	     Contraseña
+
+Admin 1 	12345678		123
+Admin 2		87654321		123
+Empleado 1	11223344		123	
+Empleado 2	44332211		123
+Gerente 1	1234567			123
+Gerente 2	76543210		123

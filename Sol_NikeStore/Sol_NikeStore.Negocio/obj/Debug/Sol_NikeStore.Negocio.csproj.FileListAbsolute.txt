@@ -1,0 +1,11 @@
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\obj\Debug\Sol_NikeStore.Negocio.csproj.AssemblyReference.cache
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\obj\Debug\Sol_NikeStore.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\bin\Debug\Sol_NikeStore.Negocio.dll
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\bin\Debug\Sol_NikeStore.Negocio.pdb
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\bin\Debug\Sol_NikeStore.Datos.dll
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\bin\Debug\Sol_NikeStore.Entidad.dll
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\bin\Debug\Sol_NikeStore.Datos.pdb
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\bin\Debug\Sol_NikeStore.Entidad.pdb
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\obj\Debug\Sol_NikeStore.Negocio.csproj.CopyComplete
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\obj\Debug\Sol_NikeStore.Negocio.dll
+C:\Users\Nicolas\source\repos\Trabajo_Integrador_Grupo7\Sol_NikeStore\Sol_NikeStore.Negocio\obj\Debug\Sol_NikeStore.Negocio.pdb
