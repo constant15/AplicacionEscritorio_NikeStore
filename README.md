@@ -1,22 +1,5 @@
 # Proyecto de Taller de Programación 2 (2023)
 
-``
-CARRERA: Licenciatura en Sistemas de Información
-``
-
-``
-GRUPO NRO: 7
-``
-
-``
-INTEGRANTES:
-``
-
-| APELLIDO Y NOMBRE | DNI |
-| ------ | ------ |
-| OLIVOS, Nicolas | 46.073.510 |
-| PINAT, Juan Matias | 39.190.409 |
-
 
 ``
 MANUAL O GUIA PARA EL USUARIO:
